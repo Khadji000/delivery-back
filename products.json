@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Филадельфия",
+    "categoryId": 3,
+    "description": "Очень вкусные роллы с красной рыбой",
+    "price": 50000,
+    "avatar": "http://img10.reactor.cc/pics/post/full/Anime-anths-irasuto-Isshiki-Iroha-OreGairu-6690154.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Калифорния",
+    "categoryId": 3,
+    "description": "Очень вкусные роллы с красной рыбой",
+    "price": 123,
+    "avatar": "http://img10.reactor.cc/pics/post/full/Anime-anths-irasuto-Isshiki-Iroha-OreGairu-6690154.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Бостон",
+    "categoryId": 4,
+    "description": "Очень вкусные роллы с красной рыбой",
+    "price": 500,
+    "avatar": "http://img10.reactor.cc/pics/post/full/Anime-anths-irasuto-Isshiki-Iroha-OreGairu-6690154.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Запеченный ролл \"Калифорния\"",
+    "categoryId": 1,
+    "description": "Калифорния Лайт",
+    "price": 500,
+    "avatar": "http://img10.reactor.cc/pics/post/full/Anime-anths-irasuto-Isshiki-Iroha-OreGairu-6690154.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Сяке маки",
+    "categoryId": 2,
+    "description": "Очень вкусные роллы с красной рыбой",
+    "price": 500,
+    "avatar": "http://img10.reactor.cc/pics/post/full/Anime-anths-irasuto-Isshiki-Iroha-OreGairu-6690154.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Калифорния Лайт",
+    "categoryId": 4,
+    "description": "Очень вкусные роллы с красной рыбой",
+    "price": 500,
+    "avatar": "http://img10.reactor.cc/pics/post/full/Anime-anths-irasuto-Isshiki-Iroha-OreGairu-6690154.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Калифорния темпура ролл",
+    "categoryId": 2,
+    "description": "Очень вкусные роллы с красной рыбой",
+    "price": 500,
+    "avatar": "http://img10.reactor.cc/pics/post/full/Anime-anths-irasuto-Isshiki-Iroha-OreGairu-6690154.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Сливочный темпура ролл",
+    "categoryId": 2,
+    "description": "Очень вкусные роллы с красной рыбой",
+    "price": 500,
+    "avatar": "http://img10.reactor.cc/pics/post/full/Anime-anths-irasuto-Isshiki-Iroha-OreGairu-6690154.jpeg"
+  }
+]
